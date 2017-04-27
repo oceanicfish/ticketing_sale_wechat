@@ -1,0 +1,12 @@
+Web
+->login
+    ->tickets.html
+        ->voucher.html
+        ->sales_record.html
+
+
+Mobile
+->sale.html
+->record.html
+->share.html
+->login.html
